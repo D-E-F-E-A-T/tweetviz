@@ -1,0 +1,25 @@
+body {
+    background: black;
+    margin: 0 auto;
+    text-align: center;
+}
+
+path {
+    stroke: #606971;
+    stroke-width: 0.2px;
+    fill: #567BB1;
+}
+
+.point {
+    fill: #CCD7E7;
+}
+
+.globe {
+    fill: #3863A0;
+}
+
+.tooltip {
+    position: absolute;
+    color: #F3F3F3;
+    background: rgba(0, 0, 0, 0.6);
+}
